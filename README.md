@@ -1,6 +1,4 @@
 # NSURLRequest-Swift-Demo
   
- + See more tutorials on blog.
-  
-  ![iOSDevCenter](http://iosdevcenters.blogspot.in/)
+ + See more tutorials on blog. http://iosdevcenters.blogspot.in/
   
